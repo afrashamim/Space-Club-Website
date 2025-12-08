@@ -54,7 +54,12 @@
                 opacity: 1;
             }
         }
-        
+        .hero-bg {
+    height: 100vh;
+    background: url("images/your-image.jpg") center/cover no-repeat;
+    position: relative;
+}
+
         header {
             background: transparent;
             color:white;
